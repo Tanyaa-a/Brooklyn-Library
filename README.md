@@ -4,6 +4,8 @@ Welcome to the repository for the alternative web portal of the Brooklyn Library
 
 ## Website Screenshot<img width="1424" alt="library" src="https://github.com/Tanyaa-a/Brooklyn-Library/assets/120506794/68ae98e0-a897-4af7-84fe-243ac2321efc">
 
+## [Live Demo](https://tanyaa-a.github.io/Brooklyn-Library/library/)
+
 ## Features 🌟
 
 - **Dynamic Catalogue Search**: Quickly find books, journals, and multimedia with our advanced search system.
