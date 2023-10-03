@@ -7,8 +7,7 @@ Welcome to the repository for the alternative web portal of the Brooklyn Library
 ## [Live Demo](https://tanyaa-a.github.io/Brooklyn-Library/library/)
 
 ## Features 🌟
-
-- **Dynamic Catalogue Search**: Quickly find books, journals, and multimedia with our advanced search system.
 - **User Profiles**: Register and maintain a user profile to track borrowing history, set preferences, and bookmark favorites.
-- **Mobile-First Design**: Whether you're on a desktop or mobile, enjoy a seamless browsing experience.
+- **Forms to buy library cards and easy register
+
 
