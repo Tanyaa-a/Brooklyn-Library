@@ -297,13 +297,13 @@ function saveToLocalStorage(email, user) {
           cardInfoNumber.placeholder = `${cardNumber}`;
           checkCardButton.style.display = "none";    
         }
+      
+      //check card section portfolio button
       checkCardProfileButton.addEventListener('click', function () {
-        profileBlock.style.display = "block";
+        profileBlock.style.display = "flex";
         body.style.overflow = "hidden";
-        overlay.classList.remove("hidden");
-       
-          
-        })
+        overlay.classList.remove("hidden");   
+      })
     
       //logout user
 
@@ -313,6 +313,7 @@ function saveToLocalStorage(email, user) {
           initials.remove();
           profileDropMenu.style.display = "none";
           localStorage.setItem("loggedIn", "false");
+          closeMenu();
         }
        
         // Add the icon back
@@ -345,10 +346,8 @@ function saveToLocalStorage(email, user) {
         
         heroInitials.textContent = initialText;
         profileFullName.textContent = `${firstName}  ${lastName}`;
-        // profileFullName.style.display = "block";
-        
         profileCardNumber.textContent = `${cardNumber}`;
-        console.log("cardnumber")
+      
       });
       
 
